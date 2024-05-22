@@ -23,9 +23,9 @@
 - Using it without giving us credit would lead to Breaking the License law
 
 ### Preview
-[image](https://github.com/nikyy2/N-N-Discord-Nuker/assets/158007947/f4da169b-dae4-45a8-8a2a-56c315d31ee2)
+![image](https://github.com/nikyy2/N-N-Discord-Nuker/assets/158007947/05e14b33-db45-4690-b5a8-8f8d48023df5)
+![image](https://github.com/nikyy2/N-N-Discord-Nuker/assets/158007947/d38196a7-2c15-4ceb-bce0-6e4f49fe443a)
 
-[image](https://github.com/nikyy2/N-N-Discord-Nuker/assets/158007947/3d8055e9-1b04-4361-b50a-437e74b4a82b)
 
 
 
