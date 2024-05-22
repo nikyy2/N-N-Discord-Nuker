@@ -4,7 +4,7 @@
 - Educational Purpose Only
 - 📣 BETA VERSION IS HERE 
 - N-N (NoName Nuker) is a tool use discord libs to make bot that run client commands (Python)
-- Don't want to use obsfucate code? > Go in my discord server and vote for source release !
+- Don't want to use obsfucated code? > Go in my discord server and vote for source release !
 - Enjoy !
 
 
